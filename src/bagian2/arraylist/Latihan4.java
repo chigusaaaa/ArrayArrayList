@@ -9,21 +9,21 @@ public class Latihan4 {
         buah.add("Mangga");
         buah.add("Jeruk");
         System.out.println("Awal    : " + buah);
-        // [Apel, Mangga, Jeruk]
+       
 
-        buah.add(1, "Pisang"); // sisip di indeks 1
+        buah.add(1, "Pisang"); 
         System.out.println("Sisip   : " + buah);
-        // [Apel, Pisang, Mangga, Jeruk]
+        
 
-        buah.set(0, "Anggur"); // ganti indeks 0
+        buah.set(0, "Anggur"); 
         System.out.println("Ganti   : " + buah);
-        // [Anggur, Pisang, Mangga, Jeruk]
+        
 
-        buah.remove("Jeruk"); // hapus berdasarkan nilai
+        buah.remove("Jeruk"); 
         System.out.println("Hapus   : " + buah);
-        // [Anggur, Pisang, Mangga]
+        /
 
-        System.out.println("Ada Apel?: " + buah.contains("Apel")); // false
-        System.out.println("Jumlah  : " + buah.size()); // 3
+        System.out.println("Ada Apel?: " + buah.contains("Apel")); 
+        System.out.println("Jumlah  : " + buah.size()); 
     }
 }
