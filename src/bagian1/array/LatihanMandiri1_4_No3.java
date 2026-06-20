@@ -9,6 +9,6 @@ public class LatihanMandiri1_4_No3 {
             if (a % 2 == 0) genap++;
         }
 
-        System.out.println("Jumlah genap: " + genap); // 4
+        System.out.println("Jumlah genap: " + genap); 
     }
 }
