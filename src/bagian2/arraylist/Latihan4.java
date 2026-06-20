@@ -21,7 +21,7 @@ public class Latihan4 {
 
         buah.remove("Jeruk"); 
         System.out.println("Hapus   : " + buah);
-        /
+        
 
         System.out.println("Ada Apel?: " + buah.contains("Apel")); 
         System.out.println("Jumlah  : " + buah.size()); 
