@@ -11,7 +11,7 @@ public class Latihan3 {
         mahasiswa.add("Citra");
 
         System.out.println("Isi list : " + mahasiswa);
-        System.out.println("Jumlah   : " + mahasiswa.size());  // size(), bukan length
-        System.out.println("Index 1  : " + mahasiswa.get(1));  // get(), bukan [1]
+        System.out.println("Jumlah   : " + mahasiswa.size());  
+        System.out.println("Index 1  : " + mahasiswa.get(1));  
     }
 }

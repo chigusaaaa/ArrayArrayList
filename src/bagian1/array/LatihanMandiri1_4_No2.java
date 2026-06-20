@@ -9,6 +9,6 @@ public class LatihanMandiri1_4_No2 {
                 System.out.println(h);
             }
         }
-        // Output: Selasa, Kamis (6 huruf masing-masing)
+        
     }
 }

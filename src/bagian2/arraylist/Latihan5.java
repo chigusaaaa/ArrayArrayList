@@ -10,7 +10,7 @@ public class Latihan5 {
         nilai.add(90);
 
         int total = 0;
-        for (int n : nilai) { // for-each works di ArrayList juga
+        for (int n : nilai) { 
             total += n;
         }
         double rata = (double) total / nilai.size();

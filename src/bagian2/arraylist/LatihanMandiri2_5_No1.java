@@ -11,7 +11,7 @@ public class LatihanMandiri2_5_No1 {
         belanja.add("Telur");
 
         System.out.println("Sebelum: " + belanja);
-        belanja.remove(1); // hapus index ke-2 (Minyak)
+        belanja.remove(1); 
         System.out.println("Sesudah: " + belanja);
         System.out.println("Jumlah : " + belanja.size());
     }

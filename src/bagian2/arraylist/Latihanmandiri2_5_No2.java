@@ -12,6 +12,6 @@ public class LatihanMandiri2_5_No2 {
         for (int n : nilai) {
             if (n > max) max = n;
         }
-        System.out.println("Terbesar: " + max); // 95
+        System.out.println("Terbesar: " + max); 
     }
 }
