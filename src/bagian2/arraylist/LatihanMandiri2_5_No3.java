@@ -13,6 +13,6 @@ public class LatihanMandiri2_5_No3 {
                 System.out.println(n);
             }
         }
-        // Output: Andi, Ayu, Adit
+        
     }
 }
